@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98652e64-7063-4209-a629-674cd746362c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/layouts/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Tag.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +182,7 @@
       <workItem from="1670133353525" duration="1569000" />
       <workItem from="1670134971891" duration="26000" />
       <workItem from="1670135010503" duration="709000" />
-      <workItem from="1670135738301" duration="12221000" />
+      <workItem from="1670135738301" duration="14709000" />
     </task>
     <task id="LOCAL-00001" summary="2. Admin LTE">
       <created>1670265115359</created>
@@ -189,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670265115359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3.Template Admin Page">
+      <created>1670348960529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670348960529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +207,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2. Admin LTE" />
-    <option name="LAST_COMMIT_MESSAGE" value="2. Admin LTE" />
+    <MESSAGE value="3.Template Admin Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.Template Admin Page" />
   </component>
 </project>
